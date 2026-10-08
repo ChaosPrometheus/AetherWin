@@ -25,7 +25,7 @@
 
 ## Скриншоты
 
-<img width="786" height="668" alt="Безымянный" src="https://github.com/user-attachments/assets/a1b02256-cafa-4f60-a4fc-22762d964a08" />
+<img width="786" height="666" alt="Безымянный" src="https://github.com/user-attachments/assets/d6b84a1b-7c49-4da8-9f39-b2a45241b46a" />
 
 ## Требования
 
