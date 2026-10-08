@@ -12,7 +12,7 @@
 - 🔽 Работа в системном трее
 - 🎨 Современный тёмный интерфейс
 
-<img width="786" height="666" alt="Безымянный" src="https://github.com/user-attachments/assets/498c3b91-99f0-4f6a-93b8-bdb078305b9e" />
+<img width="798" height="704" alt="Безымянный" src="https://github.com/user-attachments/assets/68a3d182-b9f1-48a2-89d4-1ef10007fec8" />
 
 ### Горячие клавиши по умолчанию
 
