@@ -1,4 +1,4 @@
-# Window Manager
+# AetherWin
 
 Лёгкая утилита для управления окнами в Windows.
 
@@ -41,12 +41,12 @@ dotnet build -c Release
 dotnet run -c Release
 ```
 
-Или просто запустите `WindowManager.exe` из папки `bin/Release/net8.0-windows/`.
+Или просто запустите `AetherWin.exe` из папки `bin/Release/net8.0-windows/`.
 
 ## Структура проекта
 
 ```
-WindowManager/
+AetherWin/
 ├── Views/               # XAML окна
 ├── ViewModels/          # MVVM
 ├── Services/            # Бизнес-логика
